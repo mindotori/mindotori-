@@ -1,0 +1,12 @@
+---
+name: Custom issue template
+about: 작업이슈 만들때 사용
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+# 개요
+
+## 요구사항
